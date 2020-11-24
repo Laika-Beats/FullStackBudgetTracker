@@ -1,4 +1,4 @@
-# FullStackBudgetTracker
+# Full Stack Budget Tracker (Version 1.0)
 
 A Budget App that can be used without an internet connection when the user inputs a withdrawal or deposit then that will be shown on the page, and added to their transaction history when their connection is back online.
  *********************
