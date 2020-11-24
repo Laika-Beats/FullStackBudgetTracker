@@ -1,8 +1,8 @@
-//cache for no internet connection
+//cache for offline
 const CACHE_NAME = "my-site-cache-v1";
 const DATA_CACHE_NAME = "data-cache-v1";
 
-//Array of all the URLS
+//URLS
 const urlsToCache = [
     "/",
     "/db.js",
