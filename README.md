@@ -33,7 +33,9 @@ Application works offline and when you connect to the internet again the informa
  *********************
  Contact:
 
- E-mail: laikabeatsdenver@gmail.com GitHub Username: Laika-Beats
+ E-mail: laikabeatsdenver@gmail.com 
+ 
+ GitHub Username: Laika-Beats
  
  
  *********************
